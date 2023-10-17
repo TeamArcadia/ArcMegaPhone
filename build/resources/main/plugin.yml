@@ -1,0 +1,8 @@
+name: PXMegaPhone
+version: '${version}'
+main: hy.pxmegaphone.PXMegaPhone
+api-version: '1.20'
+
+commands:
+  mg:
+    aliases: [ 확성기 ]

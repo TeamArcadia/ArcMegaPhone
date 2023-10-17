@@ -1,0 +1,13 @@
+
+g
+java:S1192G"JDefine a constant instead of duplicating this literal "{message}" 3 times.(ÃƒšÑ8–ÂÕ³1
+J
+java:S54114"(Use a primitive boolean expression here.(‰é£«ûÿÿÿÿ8õ½Õ³1
+E
+java:S5411<"(Use a primitive boolean expression here.(ÕÙûé8õ½Õ³1
+J
+java:S5411M"(Use a primitive boolean expression here.(òƒºÌùÿÿÿÿ8õ½Õ³1
+[
+java:S3516"9Refactor this method to not always return the same value.(š’‹™ûÿÿÿÿ8¸ÍÂÕ³1
+N
+java:S1874J"1Remove this use of "sendTitle"; it is deprecated.(áˆ«¦8Åõ½Õ³1
