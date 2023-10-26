@@ -16,8 +16,15 @@ public enum MessageKey {
     WRONG_COMMAND("error.wrong_command"),
 
     /* --------------- MAIN ---------------*/
+    SET_ITEM_IN_HAND("main.set_item_in_hand"),
+    SET_ITEM_SUCCESSFUL("main.set_item_successful"),
+    SET_MESSAGE_ON_CHAT("main.set_message_on_chat"),
+    SET_AUTO_SUCCESSFUL("main.set_auto_successful"),
+    AUTO_ON("main.auto_on"),
+    AUTO_OFF("main.auto_off");
 
-    NEED_NOTICE_DETAIL("main.need_notice_detail");
+
+
 
     private final String key;
 

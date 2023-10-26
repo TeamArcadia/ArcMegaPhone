@@ -1,13 +1,23 @@
 
-g
-java:S1192G"JDefine a constant instead of duplicating this literal "{message}" 3 times.(ÃƒšÑ8–ÂÕ³1
+l
+java:S1192U"JDefine a constant instead of duplicating this literal "{message}" 3 times.(±¨¶áıÿÿÿÿ8½øë¶1
 J
-java:S54114"(Use a primitive boolean expression here.(‰é£«ûÿÿÿÿ8õ½Õ³1
+java:S54115"(Use a primitive boolean expression here.(‰é£«ûÿÿÿÿ8¾øë¶1
+J
+java:S5411="(Use a primitive boolean expression here.(è¹ªúÿÿÿÿ8¾øë¶1
 E
-java:S5411<"(Use a primitive boolean expression here.(ÕÙûé8õ½Õ³1
+java:S5411O"(Use a primitive boolean expression here.(ÕÙûé8¾øë¶1
 J
-java:S5411M"(Use a primitive boolean expression here.(òƒºÌùÿÿÿÿ8õ½Õ³1
+java:S5411]"(Use a primitive boolean expression here.(òƒºÌùÿÿÿÿ8¾øë¶1
+J
+java:S5411i"(Use a primitive boolean expression here.(ñé´ıÿÿÿÿÿ8¾øë¶1
 [
-java:S3516"9Refactor this method to not always return the same value.(š’‹™ûÿÿÿÿ8¸ÍÂÕ³1
+java:S3516"9Refactor this method to not always return the same value.(š’‹™ûÿÿÿÿ8Úøë¶1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(š’‹™ûÿÿÿÿ8Üøë¶1
+R
+java:S1874A"5Remove this use of "getItemInHand"; it is deprecated.(â­ÌÎ8Şøë¶1
 N
-java:S1874J"1Remove this use of "sendTitle"; it is deprecated.(áˆ«¦8Åõ½Õ³1
+java:S1874Y"1Remove this use of "sendTitle"; it is deprecated.(ò²®˜8àøë¶1
+U
+java:S1874e"8Remove this use of "broadcastMessage"; it is deprecated.(ÖÎØà8àøë¶1

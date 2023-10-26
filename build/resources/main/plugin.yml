@@ -4,5 +4,5 @@ main: hy.pxmegaphone.PXMegaPhone
 api-version: '1.20'
 
 commands:
-  mg:
+  mp:
     aliases: [ 확성기 ]

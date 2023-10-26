@@ -13,3 +13,15 @@ g
 7src/main/java/hy/pxmegaphone/message/MessageConfig.java,0\e\0e3580b0bccccbad59b39e7b706dff22f6983286
 d
 4src/main/java/hy/pxmegaphone/message/MessageKey.java,e\6\e6407e2a375828de4843b04af92c1d97fa752824
+`
+0src/main/java/hy/pxmegaphone/util/ColorCode.java,f\3\f32736f47940a1861f32a18b0029c66884c14ef6
+e
+5src/main/java/hy/pxmegaphone/enums/MegaPhoneType.java,5\2\52f278b478a4c7300dea55c1b55e4497fce1477d
+k
+;src/main/java/hy/pxmegaphone/valid/PermissionValidator.java,2\e\2e212e26a4950f606083f2e8e0f1fa43cb70729e
+i
+9src/main/java/hy/pxmegaphone/listener/OnChatListener.java,a\6\a6a5494a21fcfc36e3b4b39d059a376fb66b1586
+l
+<src/main/java/hy/pxmegaphone/listener/ItemClickListener.java,d\d\ddf06873e898fd06433fe8b81281320a9988e237
+q
+Asrc/main/java/hy/pxmegaphone/scheduler/AutoAnnounceScheduler.java,4\7\4749a8ed73c11dfbf2394f385e418d5d56e345eb

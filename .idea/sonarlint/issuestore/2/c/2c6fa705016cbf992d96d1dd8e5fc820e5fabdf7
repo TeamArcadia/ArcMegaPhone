@@ -1,3 +1,31 @@
 
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ğŠá…úÿÿÿÿ
+d
+java:S1192"GDefine a constant instead of duplicating this literal "reload" 3 times.(•šÎ¯8œÄĞë¶1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "title" 4 times.(‹Ñ‘ü8œÄĞë¶1
+d
+java:S1192"HDefine a constant instead of duplicating this literal "setitem" 3 times.(½¬”8ÄĞë¶1
+E
+java:S5411"(Use a primitive boolean expression here.(•šÎ¯8ÄĞë¶1
+E
+java:S5411"(Use a primitive boolean expression here.(‹Ñ‘ü8ÄĞë¶1
+J
+java:S5411"(Use a primitive boolean expression here.(€ÛƒÃúÿÿÿÿ8ÄĞë¶1
+E
+java:S5411"(Use a primitive boolean expression here.(¸ï÷“8ÄĞë¶1
+D
+java:S5411"(Use a primitive boolean expression here.(½¬”8ÄĞë¶1
+J
+java:S5411"(Use a primitive boolean expression here.(‘¼˜şÿÿÿÿ8ÄĞë¶1
+E
+java:S5411 "(Use a primitive boolean expression here.(º§¶÷8ÄĞë¶1
+E
+java:S5411!"(Use a primitive boolean expression here.(õŠî†8ÄĞë¶1
+J
+java:S5411""(Use a primitive boolean expression here.(Ã£‰¿ùÿÿÿÿ8ÕşÒë¶1
+J
+java:S5411#"(Use a primitive boolean expression here.(ÕÎ”äÿÿÿÿÿ8ÄĞë¶1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(¨œ‚8¹ÄĞë¶1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8½ÄĞë¶1

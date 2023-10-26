@@ -4,33 +4,54 @@
 # └────────────────────────────────────────────────────────────────────────────+
 
 megaPhone:
+
+  # {message}: 확성기 내용
+
   title:
     title: "&6[ MegaPhone ]"
     subTitle: "&f&l{message}"
 
   chat:
-    "
-    &f&l---------------------------\n
-    \n    
-    &4공지사항 &f: &l{message}\n
-    \n
-    &f&l---------------------------
-    "
-
-
-
+    message:
+      "
+      &f&l---------------------------\n
+      \n    
+      &6공지사항 &f: &l{message}\n
+      \n
+      &f&l---------------------------
+      "
 
 autoAnnounce:
+  enabled: true
 
-  # BOSSBAR
-  # TITLE
-  # ACTIONBAR
-  mode:
+  # 모드: TITLE, CHAT
+  mode: CHAT
 
+  cycle: 600 #초
 
-item:
+  title:
+    title: "&6[ MegaPhone ]"
+    subTitle: "&6자동공지 &f: &l내용을 입력해주세요."
 
+  chat:
+    message:
+      "
+      &f&l---------------------------\n
+      \n    
+      &6자동공지 &f: &l내용을 입력해주세요.\n
+      \n
+      &f&l---------------------------
+      "
 
-
-
-
+megaPhoneItem:
+  # {message}: 확성기 내용
+  # {player}: 확성기를 사용한 플레이어
+  chat:
+    message:
+      "
+      &f&l---------------------------\n
+      \n    
+      &6{player}&7님의 확성기 &f: &l{message}\n
+      \n
+      &f&l---------------------------
+      "

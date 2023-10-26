@@ -14,11 +14,29 @@ error:
   player_only: "&c플레이어만 입력이 가능한 커맨드입니다."
 
   # 권한이 없을 때 출력됨
-  no_permission: "&c명령어를 사용할 권한이 없습니다."
+  no_permission: "&c권한이 없습니다."
 
   # 잘못된 명령어를 입력했을 때 출력됨
   wrong_command: "&c잘못된 명령어입니다."
 
 main:
-  #
-  need_notice_detail
+  # 아이템을 설정할 때 아이템을 손에 들고 있지 않으면 출력됨
+  set_item_in_hand: "&c손에 아이템을 들고 있어야 합니다."
+
+  # 아이템을 설정했을 때 출력됨
+  set_item_successful: "&a아이템이 성공적으로 설정되었습니다."
+
+  # 아이템을 사용했을 때 출력됨
+  set_message_on_chat: "&f채팅창에 내용을 입력해주세요."
+  
+  # 자동공지를 설정했을 때 출력됨
+  set_auto_successful: "&a자동공지가 성공적으로 설정되었습니다."
+
+  # 자동공지를 켰을 때 출력됨
+  auto_on: "&a자동공지가 켜졌습니다."
+
+  # 자동공지를 껐을 때 출력됨
+  auto_off: "&c자동공지가 꺼졌습니다."
+
+
+
